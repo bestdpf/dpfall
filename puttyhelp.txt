@@ -1,0 +1,7 @@
+PuTTY (the Telnet and SSH client itself) 
+PSCP (an SCP client, i.e. command-line secure file copy) 
+PSFTP (an SFTP client, i.e. general file transfer sessions much like FTP) 
+PuTTYtel (a Telnet-only client) 
+Plink (a command-line interface to the PuTTY back ends) 
+Pageant (an SSH authentication agent for PuTTY, PSCP, PSFTP, and Plink) 
+PuTTYgen (an RSA and DSA key generation utility). 
